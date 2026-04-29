@@ -3,3 +3,5 @@ scikit-learn
 streamlit
 joblib
 python-dateutil
+plotly
+nbformat
