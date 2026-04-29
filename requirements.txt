@@ -1,4 +1,12 @@
-altgraph @ file:///AppleInternal/Library/BuildRoots/39d9dc1a-2111-11f0-be06-226177e5bb69/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
+python-dateutil
+pandas
+scikit-learn
+streamlit
+joblibpython-dateutil
+pandas
+scikit-learn
+streamlit
+joblib altgraph @ file:///AppleInternal/Library/BuildRoots/39d9dc1a-2111-11f0-be06-226177e5bb69/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
 anyio==4.12.0
 appnope==0.1.4
 argon2-cffi==25.1.0
